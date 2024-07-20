@@ -1,5 +1,5 @@
-# Unified-Mentor-Projects
-Analyzing Amazon Sales data
+# Unified-Mentor-Project
+
 # Analyzing Amazon Sales Data
 
 ## Overview
